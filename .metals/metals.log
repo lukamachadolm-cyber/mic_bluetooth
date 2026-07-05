@@ -1,0 +1,139 @@
+2026.07.04 10:52:37 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\luk_v\source\repos\mic_bluetooth' for client Visual Studio Code 1.127.0.
+2026.07.04 10:52:37 INFO  Memory monitor started
+2026.07.04 10:52:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.04 10:52:39 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 10:52:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2
+jul. 04, 2026 10:52:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1
+2026.07.04 10:52:41 WARN  Could not calculate checksum for gradle in C:\Users\luk_v\source\repos\mic_bluetooth
+2026.07.04 10:52:41 WARN  Build server is not auto-connectable.
+2026.07.04 10:52:41 WARN  no build target for: C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java
+2026.07.04 10:52:42 WARN  Running javac-semanticdb failed for file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java. Output:
+
+2026.07.04 10:52:42 INFO  time: code lens generation in 1.17s
+2026.07.04 10:52:43 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:44 WARN  no build target for: C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java
+2026.07.04 10:52:43 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 10:52:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 6
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 10:52:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 10
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:54 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:52:55 WARN  Running javac-semanticdb failed for file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java. Output:
+
+2026.07.04 10:53:04 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:04 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:04 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:04 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:06 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:34 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:53:34 WARN  Running javac-semanticdb failed for file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java. Output:
+
+2026.07.04 10:53:48 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:54:09 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 10:54:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 42
+2026.07.04 10:54:09 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:54:09 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:54:10 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:54:10 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:55:12 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:55:12 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:55:12 WARN  Running javac-semanticdb failed for file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java. Output:
+
+2026.07.04 10:58:42 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:58:43 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:58:43 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 10:58:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 125
+2026.07.04 10:58:43 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:58:45 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:12 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:15 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:15 INFO  Created report: Optional[file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java]
+2026.07.04 10:59:15 INFO  QDox parse error in file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_qdox-error_10-59-16-209.md")
+2026.07.04 10:59:16 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:16 INFO  QDox parse error in file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_qdox-error_10-59-16-209.md")
+2026.07.04 10:59:16 INFO  Created report: Optional[file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java]
+2026.07.04 10:59:16 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_empty-definition_10-59-16-351.md")
+2026.07.04 10:59:15 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:15 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:15 INFO  QDox parse error in file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_qdox-error_10-59-16-209.md")
+2026.07.04 10:59:16 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 10:59:16 INFO  QDox parse error in file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_qdox-error_10-59-16-209.md")
+2026.07.04 10:59:16 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_empty-definition_10-59-16-351.md")
+2026.07.04 10:59:50 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:27 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:28 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:28 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:30 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:30 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:30 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:30 WARN  Running javac-semanticdb failed for file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java. Output:
+
+2026.07.04 11:00:31 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:32 WARN  no build target for: C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java
+2026.07.04 11:00:32 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:32 INFO  QDox parse error in file:///C:/Users/luk_v/source/repos/mic_bluetooth/app/src/main/java/com/example/micbluetooth/MainActivity.java (full report at: "C:\Users\luk_v\source\repos\mic_bluetooth\.metals\.reports\metals-full\2026-07-04\r_qdox-error_10-59-16-209.md")
+2026.07.04 11:00:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:00:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 11:00:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 248
+2026.07.04 11:01:02 WARN  no build target for: C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java
+2026.07.04 11:01:02 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:03 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:44 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:44 WARN  no build target for: C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java
+2026.07.04 11:01:44 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 11:01:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 296
+jul. 04, 2026 11:01:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 298
+2026.07.04 11:01:44 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:44 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:44 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:51 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:55 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:55 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:57 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:57 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:58 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+2026.07.04 11:01:59 INFO  no build target found for C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\java\com\example\micbluetooth\MainActivity.java. Using fallback presentation compiler.
+jul. 04, 2026 11:01:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 325
+2026.07.04 11:17:19 INFO  Shutting down server
+2026.07.04 11:17:19 INFO  Memory monitor stopped
+2026.07.04 11:17:19 INFO  shutting down Metals
+2026.07.04 11:17:19 INFO  Exiting server
+2026.07.04 16:04:07 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\luk_v\source\repos\mic_bluetooth\.metals\lsp.trace.json or C:\Users\luk_v\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.07.04 16:04:31 INFO  logging to files C:\Users\luk_v\source\repos\mic_bluetooth\.metals\metals.log
+2026.07.04 16:04:31 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\luk_v\source\repos\mic_bluetooth' for client Visual Studio Code 1.127.0.
+2026.07.04 16:04:41 INFO  Memory monitor started
+2026.07.04 16:05:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.04 16:05:18 INFO  Shutting down server
+2026.07.04 16:05:18 INFO  Memory monitor stopped
+2026.07.04 16:05:18 INFO  shutting down Metals
+2026.07.04 16:05:18 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2026.07.04 16:05:18 INFO  Exiting server

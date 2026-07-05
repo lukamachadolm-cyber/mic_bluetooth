@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\b8457a2a6d40e11ee344e311a743aaa9\workspace\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\676f43f353532fae856f02e1ce9ea006\workspace\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\6974afcd3cfff5bdfe199a08d2dc8849\workspace\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\76350431df2df8a5e0c2950ffa5b35e9\workspace\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\11ff3e9f6d798a1a94af749929949cf2\workspace\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c3759a6094937fdf1cf6079347e1558b\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\4600d555512bf69f476cd79ab8a76d49\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\510c99192b3a78375b83d75c242d2930\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\850f2f1e8b88808f8fe05edf98f95845\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\e3e183b0b6e60517356ea5bdbbddbb16\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\65b2959674bce85c691019cda55f722f\workspace\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\39ab653e22dae3a6c3cb7c18db238aa9\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\859c332c8cc7011ec17937e667dda557\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1af2195a718d2937885b3340ae4c4cb9\workspace\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\0c148fc5e151c2e24c1007b213793b1a\workspace\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\540f2507e520f27ed4add6a2d73acc2f\workspace\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\f10810ce7c283e91966a75894ad26fed\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\a7f0b52f8ff887db6c4645ee808aebd2\workspace\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\cae2840d6d9d17ce6d14ffab2710e698\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\dd5a038b35c209549018aa42805096c7\workspace\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1b3de297c70125d3f5aa93abed9f30b2\workspace\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\abcff162524086d78721fa84ad203f03\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c0148c9007ff8457919855ef0c2a7726\workspace\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:10:5-25:19
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\b8457a2a6d40e11ee344e311a743aaa9\workspace\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\b8457a2a6d40e11ee344e311a743aaa9\workspace\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\f10810ce7c283e91966a75894ad26fed\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\f10810ce7c283e91966a75894ad26fed\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.micbluetooth.MainActivity
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\b8457a2a6d40e11ee344e311a743aaa9\workspace\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\b8457a2a6d40e11ee344e311a743aaa9\workspace\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\676f43f353532fae856f02e1ce9ea006\workspace\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\676f43f353532fae856f02e1ce9ea006\workspace\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\6974afcd3cfff5bdfe199a08d2dc8849\workspace\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\6974afcd3cfff5bdfe199a08d2dc8849\workspace\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\76350431df2df8a5e0c2950ffa5b35e9\workspace\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\76350431df2df8a5e0c2950ffa5b35e9\workspace\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\11ff3e9f6d798a1a94af749929949cf2\workspace\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\11ff3e9f6d798a1a94af749929949cf2\workspace\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c3759a6094937fdf1cf6079347e1558b\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c3759a6094937fdf1cf6079347e1558b\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\4600d555512bf69f476cd79ab8a76d49\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\4600d555512bf69f476cd79ab8a76d49\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\510c99192b3a78375b83d75c242d2930\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\510c99192b3a78375b83d75c242d2930\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\850f2f1e8b88808f8fe05edf98f95845\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\850f2f1e8b88808f8fe05edf98f95845\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\e3e183b0b6e60517356ea5bdbbddbb16\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\e3e183b0b6e60517356ea5bdbbddbb16\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\65b2959674bce85c691019cda55f722f\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\65b2959674bce85c691019cda55f722f\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\5a11fe4c6d03e0f5b7f99fe34a2d25ee\workspace\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\39ab653e22dae3a6c3cb7c18db238aa9\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\39ab653e22dae3a6c3cb7c18db238aa9\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\859c332c8cc7011ec17937e667dda557\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\859c332c8cc7011ec17937e667dda557\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1af2195a718d2937885b3340ae4c4cb9\workspace\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1af2195a718d2937885b3340ae4c4cb9\workspace\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\0c148fc5e151c2e24c1007b213793b1a\workspace\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\0c148fc5e151c2e24c1007b213793b1a\workspace\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\540f2507e520f27ed4add6a2d73acc2f\workspace\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\540f2507e520f27ed4add6a2d73acc2f\workspace\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\f10810ce7c283e91966a75894ad26fed\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\f10810ce7c283e91966a75894ad26fed\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\a7f0b52f8ff887db6c4645ee808aebd2\workspace\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\a7f0b52f8ff887db6c4645ee808aebd2\workspace\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\cae2840d6d9d17ce6d14ffab2710e698\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\cae2840d6d9d17ce6d14ffab2710e698\workspace\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\dd5a038b35c209549018aa42805096c7\workspace\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\dd5a038b35c209549018aa42805096c7\workspace\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1b3de297c70125d3f5aa93abed9f30b2\workspace\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\1b3de297c70125d3f5aa93abed9f30b2\workspace\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\abcff162524086d78721fa84ad203f03\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\abcff162524086d78721fa84ad203f03\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c0148c9007ff8457919855ef0c2a7726\workspace\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c0148c9007ff8457919855ef0c2a7726\workspace\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
