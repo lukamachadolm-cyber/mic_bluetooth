@@ -1,4 +1,4 @@
-com.example.micbluetooth
+com.lukamachado.micbluetooth
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1019,6 +1019,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id device_status_text
 id dialog_button
 id dimensions
 id direct
@@ -1203,6 +1204,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id vu_meter
 id west
 id withText
 id wrap
@@ -1292,8 +1294,30 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string close_app
+string device_status_label
+string exit_content_description
+string external_noise_block
+string feedback_warning
+string hardware_error
+string intensity_label
+string internal_speaker
+string karaoke_echo
+string mic_volume_label
+string mode_always_on
+string mode_balanced
+string mode_speak_close
+string permission_denied
 string search_menu_title
+string stability_mode_hint
+string stability_mode_label
 string status_bar_notification_info_overflow
+string tone_bass
+string tone_effects_settings
+string tone_mid
+string tone_treble
+string transmission_settings
+string vu_meter_label
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

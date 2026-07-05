@@ -2,43 +2,48 @@
 
 Transforme seu dispositivo Android em um microfone profissional de baixa latência, otimizado para uso com caixas de som e fones Bluetooth. Ideal para Karaokê, palestras ou apresentações improvisadas.
 
-## 🚀 Funcionalidades Principal
+## 🚀 Funcionalidades Principais
 
-- **Filtro Inteligente de Voz (Noise Gate):** Algoritmo avançado que identifica a voz humana e silencia automaticamente ruídos de fundo ou o vazamento da música de fundo.
-- **Efeito de Karaokê (Eco):** Adicione profundidade à sua voz com um efeito de eco (delay) ajustável em tempo real.
-- **Ajustes de Tom Simplificados:**
-  - **Grave:** Mais corpo e peso para a voz.
-  - **Médio:** Foco na clareza das palavras.
-  - **Agudo:** Brilho e definição cristalina.
-- **Potência da Voz (Amplificação):** Ganho digital de até 5x com limitador integrado para evitar distorções agressivas.
-- **Baixa Latência:** Pipeline de áudio otimizado para o menor atraso possível entre a fala e a saída.
-- **Persistência de Dados:** O aplicativo lembra de todos os seus ajustes automaticamente.
-- **Modo Standby Inteligente:** Pausa o processamento de áudio ao minimizar o app, economizando bateria.
-- **Tela Sempre Ativa:** Impede o bloqueio automático enquanto você estiver usando o microfone.
+- **VU Meter em Tempo Real:** Indicador visual de volume que ajuda na calibração precisa da sensibilidade do microfone.
+- **Status do Dispositivo:** Identificação instantânea do aparelho conectado (ex: JBL, Sony, Fones) diretamente na interface.
+- **Filtro Inteligente de Voz (Noise Gate):** Algoritmo avançado com **Histerese** que identifica a voz humana e silencia ruídos de fundo ou vazamento de música.
+- **Segurança Bluetooth:** Detecção automática de desconexão de fones/caixas para interromper o áudio e evitar ruídos indesejados.
+- **Efeito de Karaokê (Eco):** Controle deslizante para adicionar profundidade e preenchimento à voz.
+- **Ajustes de Tom Simplificados:** Controles intuitivos de **Grave**, **Médio** e **Agudo**.
+- **Potência da Voz (Amplificação):** Ganho digital de até 5x com limitador para evitar distorções agressivas.
+- **Baixa Latência:** Pipeline otimizado (`PERFORMANCE_MODE_LOW_LATENCY`) para processamento instantâneo.
+- **Áudio Suave (Modo Estável):** Opção de buffer otimizado para garantir transmissões contínuas mesmo em hardware antigo ou conexões instáveis.
+- **Pronto para Globalização:** Totalmente internacionalizado via `strings.xml`.
+- **Persistência de Dados:** O app lembra de todas as suas preferências automaticamente.
 
 ---
 
-## 📱 Rascunho da Interface (UI Sketch)
+## 📱 Interface do Usuário (UI Sketch)
 
 ```text
 +---------------------------------------+
-| [ ] Mic Bluetooth                 (X) |  <-- Cabeçalho Moderno
+| Mic Bluetooth                     (X) |  <-- Cabeçalho Toolbar
++---------------------------------------+
+| Transmitindo para: JBL Flip 5         |  <-- Status em Tempo Real
++---------------------------------------+
+|  💡 Dica: Use fones para evitar eco.  |  <-- Card Educativo
 +---------------------------------------+
 |                                       |
 |  Configurações de Transmissão         |
 |  +---------------------------------+  |
+|  | Nível de Captura (Voz)          |  |
+|  | [########----------] (VU Meter) |  |
+|  |                                 |  |
 |  | Volume do Microfone (Força)     |  |
 |  | [===========O-----------------] |  |
 |  |                                 |  |
 |  | Bloqueio de Som Externo         |  |
 |  | [=====O-----------------------] |  |
-|  | Modo: Equilibrado               |  |
 |  +---------------------------------+  |
 |                                       |
 |  Ajustes de Tom e Efeitos             |
 |  +---------------------------------+  |
 |  | Voz de Karaokê (Eco)            |  |
-|  | Intensidade: 25%                |  |
 |  | [===O-------------------------] |  |
 |  | ------------------------------- |  |
 |  | Voz Grossa (Grave)              |  |
@@ -56,13 +61,21 @@ Transforme seu dispositivo Android em um microfone profissional de baixa latênc
 
 ## 🛠️ Detalhes Técnicos
 
-- **Linguagem:** Java
+- **Package:** `com.lukamachado.micbluetooth`
+- **Linguagem:** Java (Android Nativo)
 - **SDK Alvo:** Android 31 (Android 12)
-- **Tecnologias de Áudio:**
-  - `AudioRecord` & `AudioTrack` com modo `PERFORMANCE_MODE_LOW_LATENCY`.
-  - Processamento PCM 16-bit em tempo real.
-  - Integração com efeitos de hardware: `AcousticEchoCanceler`, `NoiseSuppressor` e `AutomaticGainControl`.
-- **Armazenamento:** `SharedPreferences` para persistência de configurações.
+- **Motor de Áudio:** `AudioRecord` (VOICE_COMMUNICATION) & `AudioTrack` (Builder API).
+- **Detecção de Hardware:** `AudioDeviceCallback` para monitoramento de periféricos em tempo real.
+- **Arquitetura:** Veja o arquivo [PROJECT_HISTORY.md](./PROJECT_HISTORY.md) para detalhes completos da evolução técnica.
+
+---
+
+## ⚖️ Legal e Privacidade
+
+Este aplicativo respeita a sua privacidade. O áudio captado é processado exclusivamente em tempo real no seu dispositivo.
+- **NÃO** gravamos áudio.
+- **NÃO** enviamos dados para nuvem.
+Veja a [Política de Privacidade completa aqui](./PRIVACY_POLICY.md).
 
 ---
 
@@ -70,10 +83,9 @@ Transforme seu dispositivo Android em um microfone profissional de baixa latênc
 
 1. Clone o repositório.
 2. Abra no **Android Studio**.
-3. Compile e instale no seu dispositivo.
-4. Certifique-se de conceder a permissão de **Gravação de Áudio**.
-5. Conecte sua caixa de som Bluetooth e divirta-se!
+3. Execute um **Build > Clean Project**.
+4. Compile e instale no seu dispositivo Android.
 
 ---
 
-*Desenvolvido com foco em usabilidade e performance sonora.*
+*Desenvolvido com foco em usabilidade, clareza vocal e performance sonora.*
