@@ -63,7 +63,7 @@ Transforme seu dispositivo Android em um microfone profissional de baixa latênc
 
 - **Package:** `com.lukamachado.micbluetooth`
 - **Linguagem:** Java (Android Nativo)
-- **SDK Alvo:** Android 31 (Android 12)
+- **SDK Alvo:** Android 34 (Android 14)
 - **Motor de Áudio:** `AudioRecord` (VOICE_COMMUNICATION) & `AudioTrack` (Builder API).
 - **Detecção de Hardware:** `AudioDeviceCallback` para monitoramento de periféricos em tempo real.
 - **Arquitetura:** Veja o arquivo [PROJECT_HISTORY.md](./PROJECT_HISTORY.md) para detalhes completos da evolução técnica.
