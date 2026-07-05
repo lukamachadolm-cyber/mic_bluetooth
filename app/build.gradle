@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.example.micbluetooth"
+    namespace "com.lukamachado.micbluetooth"
     compileSdkVersion 31
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "com.example.micbluetooth"
+        applicationId "com.lukamachado.micbluetooth"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1

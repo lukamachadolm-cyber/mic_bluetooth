@@ -1,4 +1,4 @@
-package com.example.micbluetooth;
+package com.lukamachado.micbluetooth;
 
 import android.Manifest;
 import android.content.Context;
@@ -187,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void updateSensitivityText(int progress) {
         if (progress == 0) sensitivityValueText.setText("Modo: Sempre Ligado");
-        else if (progress > 2000) sensitivityValueText.setText("Modo: Falar Bem Perto");
+        else if (progress > 2000) sensitivityValueText.setText("Modo: Foco Extremo");
         else sensitivityValueText.setText("Modo: Equilibrado (Recomendado)");
     }
 
@@ -305,7 +305,6 @@ public class MainActivity extends AppCompatActivity {
                             int sample = (int) (buffer[i] * currentGain);
                             
                             int mixed = sample;
-                            // Só aplica lógica de eco se a intensidade for maior que zero
                             if (echoIntensity > 0.01f) {
                                 short echo = delayBuffer[delayIndex];
                                 mixed += (int)(echo * echoIntensity);
