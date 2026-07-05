@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.example.micbluetooth",
+  "applicationId": "com.lukamachado.micbluetooth",
   "variantName": "debug",
   "elements": []
 }

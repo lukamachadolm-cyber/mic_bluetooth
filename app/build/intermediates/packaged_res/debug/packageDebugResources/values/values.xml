@@ -4,5 +4,27 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <string name="app_name">Mic Bluetooth</string>
+    <string name="close_app">Encerrar e Desligar Microfone</string>
+    <string name="device_status_label">Transmitindo para:</string>
+    <string name="exit_content_description">Sair</string>
+    <string name="external_noise_block">Bloqueio de Som Externo</string>
+    <string name="feedback_warning">Dica: Use fones ou caixas de som distantes do celular para evitar apitos (microfonia).</string>
+    <string name="hardware_error">Erro de hardware</string>
+    <string name="intensity_label">Intensidade: %1$d%%</string>
+    <string name="internal_speaker">Alto-falante Interno</string>
+    <string name="karaoke_echo">Voz de Karaokê (Eco)</string>
+    <string name="mic_volume_label">Volume do Microfone (Força)</string>
+    <string name="mode_always_on">Modo: Sempre Ligado</string>
+    <string name="mode_balanced">Modo: Equilibrado (Recomendado)</string>
+    <string name="mode_speak_close">Modo: Falar Bem Perto</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="stability_mode_hint">Ative se o som estiver cortando ou com estalos.</string>
+    <string name="stability_mode_label">Áudio Suave (Modo Estável)</string>
+    <string name="tone_bass">Voz Grossa (Grave)</string>
+    <string name="tone_effects_settings">Ajustes de Tom e Efeitos</string>
+    <string name="tone_mid">Clareza das Palavras (Médio)</string>
+    <string name="tone_treble">Brilho da Voz (Agudo)</string>
+    <string name="transmission_settings">Configurações de Transmissão</string>
+    <string name="vu_meter_label">Nível de Captura (Voz)</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">\n        \n        <item name="colorPrimary">@color/colorPrimary</item>\n        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>\n        <item name="colorAccent">@color/colorAccent</item>\n    </style>
 </resources>

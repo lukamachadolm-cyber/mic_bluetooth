@@ -29,7 +29,7 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\luk_v\.gradle\cache
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\abcff162524086d78721fa84ad203f03\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\luk_v\.gradle\caches\9.3.0\transforms\c0148c9007ff8457919855ef0c2a7726\workspace\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 	package
-		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:3:5-39
+		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml
@@ -78,7 +78,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lu
 		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
 		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:16:9-40
-activity#com.example.micbluetooth.MainActivity
+activity#com.lukamachado.micbluetooth.MainActivity
 ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:exported
 		ADDED from C:\Users\luk_v\source\repos\mic_bluetooth\app\src\main\AndroidManifest.xml:19:13-36

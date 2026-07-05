@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.micbluetooth"
+    package="com.lukamachado.micbluetooth"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -25,7 +25,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.micbluetooth.MainActivity"
+            android:name="com.lukamachado.micbluetooth.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

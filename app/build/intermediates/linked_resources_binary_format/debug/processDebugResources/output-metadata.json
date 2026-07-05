@@ -4,7 +4,7 @@
     "type": "LINKED_RESOURCES_BINARY_FORMAT",
     "kind": "Directory"
   },
-  "applicationId": "com.example.micbluetooth",
+  "applicationId": "com.lukamachado.micbluetooth",
   "variantName": "debug",
   "elements": [
     {
