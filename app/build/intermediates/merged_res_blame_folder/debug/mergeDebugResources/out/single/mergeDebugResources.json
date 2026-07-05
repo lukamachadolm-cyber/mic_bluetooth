@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.micbluetooth.app-debug-12:/drawable_ic_close.xml.flat",
+        "source": "com.example.micbluetooth.app-main-14:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-debug-12:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\luk_v\\.gradle\\daemon\\9.3.0\\com.example.micbluetooth.app-main-14:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.micbluetooth.app-debug-12:/layout_activity_main.xml.flat",
+        "source": "com.example.micbluetooth.app-main-14:/layout/activity_main.xml"
+    }
+]
