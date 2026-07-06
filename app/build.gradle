@@ -6,12 +6,12 @@ def versionPatch = 0
 
 android {
     namespace "com.lukamachado.micbluetooth"
-    compileSdkVersion 34
+    compileSdkVersion 35
 
     defaultConfig {
         applicationId "com.lukamachado.micbluetooth"
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 35
         versionCode versionMajor * 10000 + versionMinor * 100 + versionPatch
         versionName "${versionMajor}.${versionMinor}.${versionPatch}"
 

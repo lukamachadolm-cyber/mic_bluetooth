@@ -8,7 +8,7 @@ Este documento registra toda a evolução técnica, funcional e estética do pro
 - **Nome:** Mic Bluetooth
 - **Identificador:** `com.lukamachado.micbluetooth`
 - **Propósito:** Aplicativo de microfone em tempo real com baixa latência, otimizado para dispositivos Bluetooth e focado em clareza de voz para usuários leigos.
-- **Tecnologia:** Java (Android Nativo), API 34 (Android 14), Gradle 8.5.
+- **Tecnologia:** Java (Android Nativo), API 35 (Android 15), Gradle 8.5.
 
 ---
 
