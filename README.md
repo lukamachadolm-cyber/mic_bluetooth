@@ -75,7 +75,7 @@ Transforme seu dispositivo Android em um microfone profissional de baixa latênc
 Este aplicativo respeita a sua privacidade. O áudio captado é processado exclusivamente em tempo real no seu dispositivo.
 - **NÃO** gravamos áudio.
 - **NÃO** enviamos dados para nuvem.
-Veja a [Política de Privacidade completa aqui](./PRIVACY_POLICY.md).
+Veja a [Política de Privacidade completa aqui](PRIVACY.md).
 
 ---
 
