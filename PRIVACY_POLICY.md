@@ -1,6 +1,6 @@
 # Privacy Policy for Mic Bluetooth
 
-Luka Machado built the Mic Bluetooth app as a Free app. This SERVICE is provided by Luka Machado at no cost and is intended for use as is.
+Lucas Machado built the Mic Bluetooth app as a Free app. This SERVICE is provided by Lucas Machado at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
